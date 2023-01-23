@@ -12,10 +12,10 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-I am a Full Stack Developer from Thailand.
+I am a Full Stack Software Developer from Thailand 🇹🇭.
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- ⚡ In my free time I love playing basketball and video games. 👾
+- 🏀 I love playing basketball and video games. 👾
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-chawanwitp-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chawanwitp)
 
 ---
