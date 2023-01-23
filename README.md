@@ -44,7 +44,7 @@ I am a Full Stack Software Developer from Thailand 🇹🇭.
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![ZieSorX's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziesorx&count_private=true&show_icons=true&theme=tokyonight)]
+[![ZieSorX's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziesorx&count_private=true&show_icons=true&theme=vision-friendly-dark)]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziesorx&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
